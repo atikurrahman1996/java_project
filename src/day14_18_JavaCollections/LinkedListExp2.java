@@ -48,22 +48,6 @@ public class LinkedListExp2 {
 		
 		
 		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
