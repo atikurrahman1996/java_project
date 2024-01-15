@@ -66,8 +66,16 @@ public class Polymorphism {
 
 }
 
-
-
 //Polymorphism is called many forms, Polymorphism works like -polimorf( Bangla -bohuropi)
 //Two type Polymorphism > Compile Time ( method overloading) & Run Time (method overriding)
 //Polymorphism is a mechanism where a parent class reference variable can take many forms,(It can refer object from different classes).
+
+
+
+
+
+
+
+
+
+
